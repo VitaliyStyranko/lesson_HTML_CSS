@@ -1,0 +1,23 @@
+body {background-color: aliceblue;
+}
+
+h2 {color: darkorange;
+}
+
+.section {background-color: honeydew;
+}
+
+.header {background-color: beige; font-size: 150%;
+}
+
+#carbonara {background-image: url("images/background_1.jpg");
+}
+
+.notice {font-family: Tahoma, serif; color: maroon;
+}
+
+.feedback {color: darkviolet
+}
+
+textarea {width: 250px; height: 100px;
+}
